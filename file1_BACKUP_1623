@@ -1,0 +1,6 @@
+This is line 1 in file 1.
+<<<<<<< HEAD
+This is line 2 in file 1.
+This is line 3 in file 1.
+=======
+>>>>>>> parent of 7a9910b (added another line)
